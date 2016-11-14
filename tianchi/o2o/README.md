@@ -1,5 +1,7 @@
 ﻿# 赛题
 [生活大实惠：O2O优惠券使用预测](https://tianchi.shuju.aliyun.com/competition/introduction.htm?spm=5176.100067.5678.1.UKhlpD&raceId=231587)
+#数据集
+[下载链接](http://pan.baidu.com/s/1boTpGrd)
 # 解决方案
 当前策略和代码都有一些问题，第二赛季结束后会根据大神们的思路继续优化。
 ## 特征
