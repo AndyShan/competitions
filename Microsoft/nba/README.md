@@ -1,4 +1,6 @@
 # MSC双周脑震荡——预测NBA队伍季后赛晋级概率
+##数据
+[点击下载86-16年NBA季后赛球队数据](http://pan.baidu.com/s/1gfbuN1x)
 ## 安装
 本程序基于python2.7+numpy+scipy+scikit-learn实现。在运行前请先安装所有环境和依赖库。
 下面给出所有环境和库的资源下载地址和注意事项。
